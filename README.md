@@ -12,4 +12,6 @@
 
 Это `что-то с `цветом
 
-![](https://shedevrum.ai/post/77b5c2d1013711efb95b9685cc230705/?utm_referrer=https%3A%2F%2Fwww.google.com%2F)
+# Это моё фото
+
+![](https://printonic.ru/uploads/images/2016/03/01/img_56d5856fcd1b0.jpg)
